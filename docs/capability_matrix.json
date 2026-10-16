@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "area": "Payroll",
+    "process": "Automated Payroll Processing",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 2,
+    "area": "Payroll",
+    "process": "Payroll Management",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 3,
+    "area": "Payroll",
+    "process": "Time & Attendance",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 4,
+    "area": "Payroll",
+    "process": "Compliance with payroll regulations",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 5,
+    "area": "Payroll",
+    "process": "Pensions",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 6,
+    "area": "Payroll",
+    "process": "Payslips/P60/P45",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 7,
+    "area": "Payroll",
+    "process": "Claims/Expenses",
+    "proposal": "Additional Cost",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 8,
+    "area": "Employee Self Service",
+    "process": "View Payslips/P60/P45",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 9,
+    "area": "Employee Self Service",
+    "process": "Book/View Leave",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 10,
+    "area": "Employee Self Service",
+    "process": "Make Time and Expenses Claims",
+    "proposal": "Additional Cost",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 11,
+    "area": "Employee Self Service",
+    "process": "Complete Employment documentation",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 12,
+    "area": "Employee Self Service",
+    "process": "View/Update personal details",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 13,
+    "area": "Manager Self Service",
+    "process": "Authorise requests",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: team approval, workforce metrics and assignments.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 14,
+    "area": "Manager Self Service",
+    "process": "View Team information",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: team approval, workforce metrics and assignments.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 15,
+    "area": "Manager Self Service",
+    "process": "Carry out key HR processes",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: team approval, workforce metrics and assignments.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 16,
+    "area": "Manager Self Service",
+    "process": "Generate Team reports",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: team approval, workforce metrics and assignments.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 17,
+    "area": "Manager Self Service",
+    "process": "Re-directing tasks",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: team approval, workforce metrics and assignments.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 18,
+    "area": "Learning Management",
+    "process": "Carry out e-learning",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: course enrolment, completion and manager view; no third-party LMS connection.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 19,
+    "area": "Learning Management",
+    "process": "Book training courses/opportunities",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: course enrolment, completion and manager view; no third-party LMS connection.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 20,
+    "area": "Learning Management",
+    "process": "View employee learning record",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: course enrolment, completion and manager view; no third-party LMS connection.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 21,
+    "area": "Learning Management",
+    "process": "View team learning record",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: course enrolment, completion and manager view; no third-party LMS connection.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 22,
+    "area": "Learning Management",
+    "process": "Access informal learning",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: course enrolment, completion and manager view; no third-party LMS connection.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 23,
+    "area": "Document Storage",
+    "process": "Store employee documentation",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: uploaded files, access controls, retention date, archive and purge; production policies not validated.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 24,
+    "area": "Document Storage",
+    "process": "Set retention dates for employee documentation",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: uploaded files, access controls, retention date, archive and purge; production policies not validated.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 25,
+    "area": "Document Storage",
+    "process": "Automated document deletion/destruction",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: uploaded files, access controls, retention date, archive and purge; production policies not validated.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 26,
+    "area": "Document Storage",
+    "process": "Make document viewing available to employees",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: uploaded files, access controls, retention date, archive and purge; production policies not validated.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 27,
+    "area": "Organisational Chart",
+    "process": "Visualisation of organisational establishment structure",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: reporting hierarchy, FTE and cost-centre summaries.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 28,
+    "area": "Recruitment / Onboarding",
+    "process": "Raise Vacancy/Request to Recruit",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 29,
+    "area": "Recruitment / Onboarding",
+    "process": "Job Advert Creation and Publication",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 30,
+    "area": "Recruitment / Onboarding",
+    "process": "Candidate Application Stage",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 31,
+    "area": "Recruitment / Onboarding",
+    "process": "Shortlisting",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 32,
+    "area": "Recruitment / Onboarding",
+    "process": "Interview Scheduling",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 33,
+    "area": "Recruitment / Onboarding",
+    "process": "Interview and Outcome Recording",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 34,
+    "area": "Recruitment / Onboarding",
+    "process": "Offer Stage",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 35,
+    "area": "Recruitment / Onboarding",
+    "process": "Pre-Employment checks",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 36,
+    "area": "Recruitment / Onboarding",
+    "process": "Onboarding",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 37,
+    "area": "Recruitment / Onboarding",
+    "process": "Hiring/Contract Issue",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 38,
+    "area": "Recruitment / Onboarding",
+    "process": "Post-Recruitment Closure",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: vacancy, candidate self-service, interviews, outcomes, offers, checks and employee conversion.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 39,
+    "area": "Reporting / Analytics",
+    "process": "Integration with Business Intelligence Tools",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: filtered report builder, exports and dynamic aggregates; external BI integration not connected.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 40,
+    "area": "Reporting / Analytics",
+    "process": "Real Time Data Insights",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: filtered report builder, exports and dynamic aggregates; external BI integration not connected.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 41,
+    "area": "Reporting / Analytics",
+    "process": "Workforce, Payroll, and HR Analytics",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: filtered report builder, exports and dynamic aggregates; external BI integration not connected.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 42,
+    "area": "Reporting / Analytics",
+    "process": "Advanced Reporting Capabilities",
+    "proposal": "Additional Cost",
+    "demo_note": "Demo: filtered report builder, exports and dynamic aggregates; external BI integration not connected.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 43,
+    "area": "Access / Security",
+    "process": "Single Sign On",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: role-aware access, signed local sessions, audit; Entra SSO/MFA not connected.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 44,
+    "area": "Access / Security",
+    "process": "Multi Factor Authentication",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: role-aware access, signed local sessions, audit; Entra SSO/MFA not connected.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 45,
+    "area": "Access / Security",
+    "process": "GDPR compliance",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: role-aware access, signed local sessions, audit; Entra SSO/MFA not connected.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 46,
+    "area": "Case Management",
+    "process": "HR casework (managing attendance, disciplinaries)",
+    "proposal": "Additional Cost",
+    "demo_note": "Optional demonstrator: HR case register; not included in proposed base subscription.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 47,
+    "area": "System Integration",
+    "process": "Integration with other applications",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: durable local mock queue, retries/failure injection; no actual third-party endpoint.",
+    "demo_depth": "working demo subset"
+  }
+]

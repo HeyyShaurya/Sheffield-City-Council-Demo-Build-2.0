@@ -1,0 +1,6 @@
+{
+  "name": "Sheffield Connect | HR, Payroll & Learning",
+  "description": "Opportunity-specific interactive HR, payroll and learning demonstrator for Sheffield City Council by PayrollCloud Limited.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

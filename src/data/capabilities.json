@@ -1,0 +1,378 @@
+[
+  {
+    "id": 1,
+    "area": "Payroll",
+    "process": "Automated Payroll Processing",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 2,
+    "area": "Payroll",
+    "process": "Payroll Management",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 3,
+    "area": "Payroll",
+    "process": "Time & Attendance",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 4,
+    "area": "Payroll",
+    "process": "Compliance with payroll regulations",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 5,
+    "area": "Payroll",
+    "process": "Pensions",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 6,
+    "area": "Payroll",
+    "process": "Payslips/P60/P45",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 7,
+    "area": "Payroll",
+    "process": "Claims/Expenses",
+    "proposal": "Additional Cost",
+    "demo_note": "Demo: payroll run and payslips with non-statutory illustrative deduction; time/attendance is a prototype, pension and UK HMRC processing not implemented.",
+    "demo_depth": "partial simulator"
+  },
+  {
+    "id": 8,
+    "area": "Employee Self Service",
+    "process": "View Payslips/P60/P45",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 9,
+    "area": "Employee Self Service",
+    "process": "Book/View Leave",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 10,
+    "area": "Employee Self Service",
+    "process": "Make Time and Expenses Claims",
+    "proposal": "Additional Cost",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 11,
+    "area": "Employee Self Service",
+    "process": "Complete Employment documentation",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 12,
+    "area": "Employee Self Service",
+    "process": "View/Update personal details",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: absence, personal directory, document upload, payslip and optional expense claim.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 13,
+    "area": "Manager Self Service",
+    "process": "Review/Approve Leave",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: manager views team requests, approves/rejects, updates remaining employee balance.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 14,
+    "area": "Manager Self Service",
+    "process": "Review/Approve Expenses and Overtime",
+    "proposal": "Additional Cost",
+    "demo_note": "Demo: timesheets approved in baseline prototype; expenses approved in optional tab.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 15,
+    "area": "Manager Self Service",
+    "process": "Review/Approve Employment Changes",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: position changes update employee profile and organisation roll-ups.",
+    "demo_depth": "working demo subset"
+  },
+  {
+    "id": 16,
+    "area": "Manager Self Service",
+    "process": "Organisation Hierarchy View",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: reporting lines, spans, grades and cost centres with dynamic roll-ups.",
+    "demo_depth": "full demo model"
+  },
+  {
+    "id": 17,
+    "area": "Manager Self Service",
+    "process": "Recruitment & Requisitions",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: one-page requisition/vacancy creation with post-publish revision history.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 18,
+    "area": "Talent Acquisition",
+    "process": "Job Requisition Creation",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: single form vacancy creation with closing date and mandatory cover letter toggle.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 19,
+    "area": "Talent Acquisition",
+    "process": "Candidate Career Portal",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: public job board, candidate statement, document upload and token tracking.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 20,
+    "area": "Talent Acquisition",
+    "process": "Candidate Self-Service Interview Booking",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: candidates self-select/reschedule video or in-person slots with mock calendar queue.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 21,
+    "area": "Talent Acquisition",
+    "process": "Structured Interview Scoring",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: mandatory 0-5 score and panel evidence feedback before candidate offer.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 22,
+    "area": "Talent Acquisition",
+    "process": "Candidate Portal Correspondence",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: recruiter message delivered to private tracker inbox without claiming external email delivery.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 23,
+    "area": "Talent Acquisition",
+    "process": "Offer and Pre-Employment Checks",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: staged transitions through offer, checks and automated new-starter worker creation.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 24,
+    "area": "HR Onboarding",
+    "process": "Automated Worker Creation",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: candidate appointment automatically creates employee identity and updates headcount/FTE.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 25,
+    "area": "HR Onboarding",
+    "process": "Starter Checklists & Tasks",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: onboarding automatically triggers task handoffs for employee, HR and learning leads.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 26,
+    "area": "Document Management",
+    "process": "Employee Document Storage",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: employee and HR upload with type classification, max 5MB limits and access audit.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 27,
+    "area": "Document Management",
+    "process": "Document Retention & Scheduled Purge",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: retention date tracking, archive transition, admin expiry simulation and auditable purge.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 28,
+    "area": "Document Management",
+    "process": "Role-Based Document Confidentiality",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: employees see only their files; managers cannot browse arbitrary personnel documents.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 29,
+    "area": "Learning & Development",
+    "process": "Course Catalogue & Enrolment",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: course catalogue, self-booking, capacity limits and seat tracking.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 30,
+    "area": "Learning & Development",
+    "process": "Mandatory Compliance Tracking",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: completion recording, team learning records and role-aware admin visibility.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 31,
+    "area": "Core HR",
+    "process": "Personal Information Management",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: self-service update of telephone, address and emergency contact with audit logging.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 32,
+    "area": "Core HR",
+    "process": "Establishment Control",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: positions, reporting trees, cost centres, FTE aggregation and headcount analytics.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 33,
+    "area": "Core HR",
+    "process": "Multi-Role Security & Workspaces",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: 8 role types (Employee, Manager, HR, Payroll, Learning, Recruiter, Service, Admin) with instant persona switcher.",
+    "demo_depth": "full demo model"
+  },
+  {
+    "id": 34,
+    "area": "People Services",
+    "process": "HR Task Management & Worklists",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: task assignment across teams, deadlines, status transitions and completion audit.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 35,
+    "area": "People Services",
+    "process": "HR Case Management",
+    "proposal": "Additional Cost",
+    "demo_note": "Demo: confidential People Services case log with employee link, owner and closure workflow.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 36,
+    "area": "Reporting & Analytics",
+    "process": "Workforce Distribution Insights",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: dynamic breakdown by department, cost centre, or grade for headcount, FTE and salary.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 37,
+    "area": "Reporting & Analytics",
+    "process": "Role-Aware Security on Sensitive Metrics",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: salary figures restricted to senior service managers, HR, payroll and admin.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 38,
+    "area": "Reporting & Analytics",
+    "process": "Live Data Export",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: direct CSV export of filtered workforce aggregates.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 39,
+    "area": "System Integration",
+    "process": "Integration Event Queue & Audit",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: staged events for Entra ID, Finance, Calendar, CRM and Payment export.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 40,
+    "area": "System Integration",
+    "process": "Simulated Fault Injection & Recovery",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: inject timeout error into mock queue and retry with exactly-once event identifiers.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 41,
+    "area": "Communication",
+    "process": "Private Internal Messaging",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: BCC-style multi-recipient messaging where recipients do not see other addresses.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 42,
+    "area": "Governance & Audit",
+    "process": "Comprehensive Audit Trail",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: UTC audit log capturing actor, action, entity, entity ID and detail for all transactions.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 43,
+    "area": "System Administration",
+    "process": "Demonstration State Reset",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: admin can reset database to clean 16-person baseline by entering RESET DEMO.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 44,
+    "area": "Time & Absence",
+    "process": "Working Day Absence Rules",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: calculates weekday absence count, blocks past requests and enforces maximum 80 days.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 45,
+    "area": "Time & Absence",
+    "process": "Overlap and Balance Protection",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: automatically blocks overlapping leave requests and requests exceeding available balance.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 46,
+    "area": "Presenter Experience",
+    "process": "Guided Live Demo Run-of-Show",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: built-in presenter schedule with direct links to the six Sheffield use-case stories.",
+    "demo_depth": "working demo flow"
+  },
+  {
+    "id": 47,
+    "area": "Demonstration Governance",
+    "process": "Clear Simulation Boundaries & Disclaimers",
+    "proposal": "Standard Offer",
+    "demo_note": "Demo: prominent banners clarify simulated HMRC, Oracle, Entra and email connections.",
+    "demo_depth": "full demo model"
+  }
+]
